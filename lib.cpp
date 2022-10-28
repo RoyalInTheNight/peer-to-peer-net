@@ -185,7 +185,6 @@ peer::peer(std::string nickname,
            uint16_t port, 
            uint16_t portNode, 
            uint8_t DebugMode_i) {
-
     Nicknames.push_back(nicknameNode);
     Nicknames.push_back(nickname);
 
